@@ -1,0 +1,25 @@
+{
+    "barChart": {
+      "series": [
+        {
+          "data": [10, 8, 6, 4, 2],
+          "name": "Products"
+        }
+      ],
+      "categories": ["Laptop", "Phone", "Monitor", "Headphones", "Camera"]
+    },
+    "areaChart": {
+      "series": [
+        {
+          "name": "Purchase Orders",
+          "data": [31, 40, 28, 51, 42, 109, 100]
+        },
+        {
+          "name": "Sales Orders",
+          "data": [11, 32, 45, 32, 34, 52, 41]
+        }
+      ],
+      "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul"]
+    }
+  }
+  
